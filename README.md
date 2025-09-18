@@ -20,10 +20,10 @@ As this repository tracks my learning process, the strategies and conclusions ar
 The research is organized into a main `notebooks` directory, which is further divided by topic. Each topic folder contains a series of Jupyter notebooks that build upon each other.
 
 ```
-notebooks/
+notebook/
 └── [Topic Name]/
-    ├── 01_Introduction.ipynb
-    ├── 02_Next_Step.ipynb
+    ├── 00_Introduction.ipynb
+    ├── 01_Next_Step.ipynb
     └── ...
 ```
 
