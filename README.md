@@ -27,6 +27,14 @@ notebook/
     └── ...
 ```
 
+### Up Next
+
+Topic: Data
+
+* Different view on price data.
+* Use of functions in modeling.
+* Regions and Markov chains for market state analysis.
+
 ### Disclaimer
 
 The content in this repository is for educational and personal research purposes only. **It is not financial advice.**
