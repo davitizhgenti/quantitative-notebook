@@ -2,7 +2,7 @@
 
 This repository documents my personal journey and experimentation in the field of quantitative finance. It serves as a public log of my learning process, blending academic concepts with practical, hands-on testing.
 
-The primary goal is to explore, test, and refine trading ideas using a data-driven approach. The content is presented through a series of notebooks, each aiming to explain my findings and thought process on a specific topic.
+The primary goal is to explore, test, and refine trading ideas using a data-driven approach. The general content is presented through a series of notebooks, each aiming to explain my findings and thought process on a specific topic.
 
 ### About the Content
 
